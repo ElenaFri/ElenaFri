@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a dedicated IT student at [Strasbourg Universi
     <img src="pic/python.svg" alt="Python" width="70" height="70" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: inline-block; ">
-    <img src="pic/js_ts.svg" alt="JavaScript" width="70" height="70" />
+    <img src="pic/js-ts.svg" alt="JavaScript" width="70" height="70" />
   </a>
   <a href="https://www.php.net/" target="_blank" style="display: inline-block; ">
     <img src="pic/php.svg" alt="PHP" width="70" height="70" />
@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a dedicated IT student at [Strasbourg Universi
   </a>
 </div> 
 
-### Tools
+### Development Tools
 
 <div>
   <a href="https://git-scm.com/" target="_blank" style="display: inline-block; ">
@@ -76,6 +76,26 @@ Welcome to my GitHub profile! I'm a dedicated IT student at [Strasbourg Universi
     <img src="pic/intellij.svg" alt="IntelliJ" width="70" height="70" />
   </a>
 </div>
+
+### Graphical Tools
+
+<div>
+  <a href="https://www.canva.com/" target="_blank" style="display: inline-block;">
+    <img src="pic/canva.png" alt="Canva" width="80" height="70" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" style="display: inline-block;">
+    <img src="pic/figma.png" alt="Figma" width="70" height="70" />
+  </a>
+  <a href="https://www.gimp.org/" target="_blank" style="display: inline-block;">
+    <img src="pic/gimp.png" alt="GIMP" width="70" height="70" />
+  </a>
+  <a href="https://inkscape.org/" target="_blank" style="display: inline-block;">
+    <img src="pic/inkscape.png" alt="Inkscape" width="70" height="70" />
+  </a>
+</div>
+
+
+
 
 ---
 
