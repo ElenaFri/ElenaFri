@@ -61,26 +61,26 @@ Welcome to my GitHub profile! I'm a dedicated IT student at [Strasbourg Universi
   </a>
 </div> 
 
-<!--
 ### Tools
 
 <div>
   <a href="https://git-scm.com/" target="_blank" style="display: inline-block; ">
-    <img src="https://img.icons8.com/color/70/000000/git.png" alt="Git" width="70" height="70" />
+    <img src="pic/git.svg" alt="Git" width="70" height="70" />
   </a>
   <a href="https://www.vim.org/" target="_blank" style="display: inline-block; ">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="70" height="70" />
+    <img src="pic/vim.svg" alt="Vim" width="70" height="70" />
   </a>
   <a href="https://www.geany.org/" target="_blank" style="display: inline-block; ">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Geany_logo.svg" alt="Geany" width="70" height="70" />
+    <img src="pic/geany.svg" alt="Geany" width="70" height="70" />
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" style="display: inline-block; ">
-    <img src="https://img.icons8.com/color/70/000000/intellij-idea.png" alt="IntelliJ" width="70" height="70" />
+    <img src="pic/intellij.svg" alt="IntelliJ" width="70" height="70" />
   </a>
 </div>
 
 ---
 
+<!--
 ## 📝 Projects
 
 ### [Project 1 Name](https://github.com/yourusername/project1)
