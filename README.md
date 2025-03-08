@@ -14,32 +14,31 @@ Welcome to my GitHub profile! I'm a dedicated IT student at [Strasbourg Universi
 
 ## 🛠 Skills and Technologies
 
-<!--
 ### Programming Languages
 
 <div>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="display: inline-block; ">
-    <img src="https://img.icons8.com/color/70/000000/c-programming.png" alt="C" width="70" height="70" />
+    <img src="pic/c.svg" alt="C" width="70" height="70" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="display: inline-block; ">
-    <img src="https://img.icons8.com/color/70/000000/c-sharp-logo.png" alt="C#" width="70" height="70" />
+    <img src="pic/csharp.svg" alt="C#" width="70" height="70" />
   </a>
   <a href="https://www.oracle.com/java/" target="_blank" style="display: inline-block;  ">
-    <img src="https://img.icons8.com/color/70/000000/java-coffee-cup-logo.png" alt="Java" width="70" height="70" />
+    <img src="pic/java.svg" alt="Java" width="70" height="70" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" style="display: inline-block; ">
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" width="70" height="70" />
+    <img src="pic/mysql.svg" alt="SQL" width="70" height="70" />
   </a>
   <a href="https://www.python.org/" target="_blank" style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="70" height="70" />
+    <img src="pic/python.svg" alt="Python" width="70" height="70" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: inline-block; ">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="70" height="70" />
+    <img src="pic/js_ts.svg" alt="JavaScript" width="70" height="70" />
   </a>
   <a href="https://www.php.net/" target="_blank" style="display: inline-block; ">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="70" height="70" />
+    <img src="pic/php.svg" alt="PHP" width="70" height="70" />
   </a>
-</div> -->
+</div>
 
 ### Operating Systems
 
