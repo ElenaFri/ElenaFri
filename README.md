@@ -80,9 +80,10 @@ But I'm also...
 ### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=flat&logo=zedindustries&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-084CCF?style=flat&logo=zedindustries&logoColor=white)![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-FABD14?style=flat)
 
