@@ -97,10 +97,13 @@ But I'm also...
 ## 📝 Featured Projects
 
 ### [y-not](https://github.com/ElenaFri/y-not) — C
-A small Linux CLI that explains why a user can or cannot access a file or directory.
+A small Linux CLI that explains why a user can or cannot access a file or directory. Released as `.deb`.
 
 ### [Orbis Fidei](https://github.com/ElenaFri/orbis_fidei) — TypeScript
 An aggregator of religious news from around the world, with a discussion platform.
+
+### [grossbuch](https://github.com/ElenaFri/grossbuch) — C++ / Qt 6
+A household budgeting app for Linux: quick expense entry by category, monthly and yearly summaries, year-over-year charts. Data stays local (SQLite) and can be shared across the family's computers through a synced folder, with no server and no account. Released as `.deb` and AppImage.
 
 ### [Texloom](https://github.com/ElenaFri/texloom) — C++
 A simple Markdown-to-LaTeX converter and text editor, with a (useful) GUI.
